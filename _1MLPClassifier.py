@@ -1,7 +1,6 @@
 import gdal
 import cv2
 import numpy as np
-from keras.utils.np_utils import to_categorical  
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
 import matplotlib.pyplot as plt
